@@ -498,7 +498,20 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 | Attribute | Details |
 | :--- | :--- |
 | **License Type** | MIT License |
-| **Copyright** | © 2026 Madhan Mohan Reddy |
 | **Permissions** | Commercial use, modification, distribution, private use |
 | **Conditions** | Include original copyright notice and license text |
 | **Limitations** | Provided "as is", without warranty or liability |
+
+---
+
+## Contact Information
+
+### Madhan Mohan Reddy
+
+- **Email**: <madhanmohanreddyperam06@gmail.com>
+- **Mobile**: +91 9110395993
+
+---
+<div align="center">
+© 2026 Campus Finder. All rights reserved.
+</div>
