@@ -7,22 +7,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-7.0-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PyMongo](https://img.shields.io/badge/PyMongo-4.18-FF6F00?style=flat-square)
 ![Pydantic](https://img.shields.io/badge/Pydantic-2.14-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
-**A FastAPI + MongoDB REST API for shift-aware attendance tracking, audit-trailed manual regularization, and workforce analytics.**
-
---- 
-
-[Overview](#overview) •
-[Architecture](#architecture) •
-[Classifications & Rules](#classifications--business-rules) •
-[API Reference](#api-reference) •
-[Analytics & Trends](#analytics--visualizations) •
-[Database & Indexing](#database--indexing) •
-[Setup & Quick Start](#setup--quick-start)
-
-</div>
+**A FastAPI for shift-aware attendance tracking, audit-trailed manual regularization, and workforce analytics.**
 
 ---
+
+</div>
 
 ## Overview
 
@@ -497,3 +488,17 @@ curl "http://localhost:8000/admin/explain/employee_monthly?emp_code=EMP0001&mont
 ```
 
 </details>
+
+---
+
+## License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for full details.
+
+| Attribute | Details |
+| :--- | :--- |
+| **License Type** | MIT License |
+| **Copyright** | © 2026 Madhan Mohan Reddy |
+| **Permissions** | Commercial use, modification, distribution, private use |
+| **Conditions** | Include original copyright notice and license text |
+| **Limitations** | Provided "as is", without warranty or liability |
