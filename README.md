@@ -513,5 +513,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 <div align="center">
-© 2026 Campus Finder. All rights reserved.
+© 2026 EmpPunch. All rights reserved.
 </div>
